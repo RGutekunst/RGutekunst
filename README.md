@@ -19,12 +19,12 @@
 </p>
 <h3 align="center">My Gitstats</h3>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=RGutekunst&show_icons=true&line_height=27&theme=gruvbox">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RGutekunst&hide=&theme=gruvbox">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=RGutekunst&show_icons=true&line_height=27&theme=synthwave ">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RGutekunst&hide=&theme=synthwave ">
 </p>
 
 <p align = "center">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RGutekunst&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=0" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RGutekunst&show_icons=true&locale=en&layout=compact&theme=synthwave &line_height=0" />
 </p> 
 
 
