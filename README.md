@@ -12,7 +12,7 @@
 </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,golang,cs,html,css,js,ableton,VisualStudio,VScode,py,dotnet,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,golang,cs,html,css,js,ableton,VisualStudio,vscode,py,dotnet,bootstrap" />
   </a>
 </p>
 
