@@ -8,7 +8,7 @@
   <img src = "https://badges.pufler.dev/years/RGutekunst">
 </p>
 <h3 align="center">
-  My Skillset
+  My Skillset:
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
