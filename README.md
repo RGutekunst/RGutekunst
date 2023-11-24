@@ -10,6 +10,8 @@
 <h3 align="center">
   My Skillset:
 </h3>
+
+<p>Hey there, I am a Developer in training</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,golang,cs,html,css,js,ableton,visualstudio,vscode,py,dotnet,bootstrap" />
